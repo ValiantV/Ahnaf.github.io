@@ -64,6 +64,12 @@ Performed real-time analysis of malware samples to understand malicious behaviou
 ### Development of Web Application for Banking Scenario
 Designed and developed a web application using MySQL, PHP, HTML, CSS, and JavaScript with Role-Based Access Control (RBAC) for a banking scenario. The application allowed users to log in and perform transactions, while admins could manage CRUD (Create, Read, Update, Delete) operations.  
 
+### Library Management System (Python)
+Developed a Python-based library system with user authentication, book management, and input validation. Implemented secure login/registration and a nested dictionary to store book details. Demonstrated proficiency in Python scripting, data handling, and secure system design.
+
+### Malware Analysis Sandbox (Kali Linux)
+Built a malware analysis sandbox using VMware, Wireshark, Regshot, NetworkMiner, Fiddler, and Sysmon. Conducted dynamic analysis of malware samples to identify malicious behaviour and Indicators of Compromise (IOCs). Demonstrated hands-on experience with cybersecurity tools and threat analysis techniques.
+
 ---
 
 ## Additional Experience
